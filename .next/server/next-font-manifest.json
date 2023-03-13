@@ -1,6 +1,17 @@
 {
-  "pages": {},
+  "pages": {
+    "/organizations": [
+      "static/media/02205c9944024f15-s.p.woff2",
+      "static/media/e32130b794b789cb-s.p.woff2",
+      "static/media/d55edb6f37902ebf-s.p.woff2"
+    ],
+    "/": [
+      "static/media/02205c9944024f15-s.p.woff2",
+      "static/media/e32130b794b789cb-s.p.woff2",
+      "static/media/d55edb6f37902ebf-s.p.woff2"
+    ]
+  },
   "app": {},
   "appUsingSizeAdjust": false,
-  "pagesUsingSizeAdjust": false
+  "pagesUsingSizeAdjust": true
 }
