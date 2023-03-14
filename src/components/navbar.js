@@ -6,7 +6,7 @@ import { useState } from "react"
 import mgcLogo from "/public/images/mgc-logo.png"
 
 export default function Navbar() {
-    const pages = ["Organizations", "Our Team", "Social Media", "Gallery", "Sponsors"]
+    const pages = ["Organizations", "Our Team", "Social Media", "Gallery"]
 
     const listItems = pages.map((page) => (
         <li key={page}>
@@ -25,7 +25,9 @@ export default function Navbar() {
                     <Image src={mgcLogo} alt="MGC Logo" width={80}/>
                 </Link>
                 <div className="flex md:order-2">
-                    <button className="text-white focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-5 mr-4 md:mr-1 bg-blue-600 hover:bg-blue-700 focus:ring-blue-800">Get Involved</button>
+                    <Link href="/get-involved">
+                        <button className="text-white focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-5 mr-4 md:mr-1 bg-blue-600 hover:bg-blue-700 focus:ring-blue-800">Get Involved</button>
+                    </Link>
                     <button onClick={() => setCollapsed((currentCollapse) => !currentCollapse)} className="inline-flex items-center p-2 text-sm rounded-lg md:hidden focus:outline-none focus:ring-2 text-gray-400 hover:bg-gray-700 focus:ring-gray-600 mr-1" aria-controls="navbar-sticky" aria-expanded="false">
                         <span className="sr-only">Open main menu</span>
                         <svg className="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clipRule="evenodd"></path></svg>
