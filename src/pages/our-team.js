@@ -179,7 +179,9 @@ export default function OurTeam() {
                     <h1 className={`text-sm md:text-base lg:text-lg ${inter1.className}`}>{data[1]}</h1>
                     <h2 className={`text-sm lg:text-lg mb-5 ${roboto1.className}`}>{data[2]}</h2>
                     <h2 className={`text-sm lg:text-lg mb-5 ${roboto1.className}`}>{data[3]}</h2>
-                    <h2 className={`text-xs lg:text-base mb-5 ${roboto1.className}`}>{data[4]}</h2>
+                    <a href={`mailto:${data[4]}`} target="_blank" rel="noreferrer noopener">
+                        <h2 className={`text-xs lg:text-base mb-5 ${roboto1.className}`}>{data[4]}</h2>
+                    </a>
                 </div>
             </div>
         )

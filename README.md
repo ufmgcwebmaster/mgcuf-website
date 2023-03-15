@@ -26,6 +26,27 @@ A website created using Next.js for the Multicultural Greek Council at the Unive
 ]
 ```
 
+### Organizations
+
+- This part is pretty similar to the previous section.
+- Add the relevant pictures to `public/images/orgs` (must be `.jpg`, `.jpeg`, or `.png`). 
+- Head to `src/pages/organizations.js`.
+- Edit the nested list `orgData` using the following format:
+```
+[
+	file name (with proper extension!),
+	organization name,
+	chapter,
+	founding year,
+	pillars,
+	motto,
+	colors,
+	instagram handle,
+	website
+]
+```
+- Note: `founding year` and every parameter after is optional. If not provided, enter an empty string (`""`).
+
 ### Gallery
 
 - Simply add the pictures to `public/images/gallery`
