@@ -7,7 +7,7 @@ A website created using Next.js for the Multicultural Greek Council at the Unive
 ### Basic Info
 
 - Welcome! If you're reading this, you're probably the new webmaster.
-- Clone the repo to make changes. Deploy on Vercel.
+- Clone the repo to make changes. Automatically deployed to Vercel when you push to main.
 - If you accidentally break something, just copy code from the repo this was forked from.
 
 ### Executive Board and Directors
