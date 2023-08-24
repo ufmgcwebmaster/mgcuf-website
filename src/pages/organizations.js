@@ -18,17 +18,17 @@ function importAll(r) {
 const images = importAll(require.context('public/images/orgs', false, /\.(png|jpe?g|svg)$/))
 
 const orgData = [
-    [
-        "lambdas.jpg",
-        "Lambda Theta Phi Latin Fraternity, Inc.",
-        "Phi",
-        "1975",
-        "Academic Excellence, Brotherhood, Leadership, Latino Unity, Service",
-        "Chivalry Above Self",
-        "Brown and White",
-        "uf_lambdas",
-        "https://www.uflambdas.org/"
-    ],
+    // [
+    //     "lambdas.jpg",
+    //     "Lambda Theta Phi Latin Fraternity, Inc.",
+    //     "Phi",
+    //     "1975",
+    //     "Academic Excellence, Brotherhood, Leadership, Latino Unity, Service",
+    //     "Chivalry Above Self",
+    //     "Brown and White",
+    //     "uf_lambdas",
+    //     "https://www.uflambdas.org/"
+    // ],
     [
         "lta.jpg",
         "Lambda Theta Alpha Latin Sorority, Inc.",

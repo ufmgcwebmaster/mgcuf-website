@@ -21,20 +21,20 @@ const eboardImages = importAll(require.context('public/images/eboard', false, /\
 const year = 2023
 
 const directorData = [
-    [
-        'erik-lavandeira.jpg',
-        'Erik Lavandeira',
-        '(He/Him/His)',
-        'Community Service Director',
-        'ufmgcservice@gmail.com'
-    ],
-    [
-        'ricardo-martinez.jpg',
-        'Ricardo Martinez',
-        '(He/Him/His)',
-        'Scholarship Director',
-        'scholarshipufmgc@gmail.com'
-    ],
+    // [
+    //     'erik-lavandeira.jpg',
+    //     'Erik Lavandeira',
+    //     '(He/Him/His)',
+    //     'Community Service Director',
+    //     'ufmgcservice@gmail.com'
+    // ],
+    // [
+    //     'ricardo-martinez.jpg',
+    //     'Ricardo Martinez',
+    //     '(He/Him/His)',
+    //     'Scholarship Director',
+    //     'scholarshipufmgc@gmail.com'
+    // ],
     [
         'rhiannon-odonnell.jpg',
         "Rhiannon O'Donnell",
@@ -42,13 +42,13 @@ const directorData = [
         'Programming Director',
         'ufmgcprogramming@gmail.com'
     ],
-    [
-        'sergio-ray.jpg',
-        "Sergio Ray",
-        '(He/Him/His)',
-        'Programming Director',
-        'ufmgcprogramming@gmail.com'
-    ],
+    // [
+    //     'sergio-ray.jpg',
+    //     "Sergio Ray",
+    //     '(He/Him/His)',
+    //     'Programming Director',
+    //     'ufmgcprogramming@gmail.com'
+    // ],
     [
         'grace-wilson.jpg',
         'Grace Wilson',
@@ -63,20 +63,20 @@ const directorData = [
         'Programming Director',
         'ufmgcprogramming@gmail.com'
     ],
-    [
-        'peter-acosta.jpg',
-        "Peter Acosta",
-        '(He/Him/His)',
-        'Showcase Director',
-        'ufmgcshowcase3@gmail.com'
-    ],
-    [
-        'damien-shane.jpg',
-        "Damien Shane",
-        '(He/Him/His)',
-        'Showcase Director',
-        'ufmgcshowcase3@gmail.com'
-    ],
+    // [
+    //     'peter-acosta.jpg',
+    //     "Peter Acosta",
+    //     '(He/Him/His)',
+    //     'Showcase Director',
+    //     'ufmgcshowcase3@gmail.com'
+    // ],
+    // [
+    //     'damien-shane.jpg',
+    //     "Damien Shane",
+    //     '(He/Him/His)',
+    //     'Showcase Director',
+    //     'ufmgcshowcase3@gmail.com'
+    // ],
     [
         'britney-tse.jpg',
         "Britney Tse",
@@ -98,13 +98,13 @@ const directorData = [
         'Public Relations Director',
         'ufmgcpr@gmail.com'
     ],
-    [
-        'steffano-segovia-palacios.jpg',
-        "Steffano Segovia-Palacios",
-        '(He/Him/His)',
-        'Public Relations Director',
-        'ufmgcpr@gmail.com'
-    ],
+    // [
+    //     'steffano-segovia-palacios.jpg',
+    //     "Steffano Segovia-Palacios",
+    //     '(He/Him/His)',
+    //     'Public Relations Director',
+    //     'ufmgcpr@gmail.com'
+    // ],
     [
         'alejandra-roldan.jpg',
         "Alejandra Roldan",
@@ -129,13 +129,13 @@ const eboardData = [
         'President',
         'ufmgcpresident@gmail.com'
     ],
-    [
-        'ismael-contreras.jpg',
-        "Ismael Contreras",
-        '(He/Him/His)',
-        'Executive Vice President',
-        'ufmgcevp@gmail.com'
-    ],
+    // [
+    //     'ismael-contreras.jpg',
+    //     "Ismael Contreras",
+    //     '(He/Him/His)',
+    //     'Executive Vice President',
+    //     'ufmgcevp@gmail.com'
+    // ],
     [
         'amiya-gupta.jpg',
         "Amiya Gupta",
