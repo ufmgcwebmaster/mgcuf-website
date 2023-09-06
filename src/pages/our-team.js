@@ -35,13 +35,13 @@ const directorData = [
     //     'Scholarship Director',
     //     'scholarshipufmgc@gmail.com'
     // ],
-    [
-        'rhiannon-odonnell.jpg',
-        "Rhiannon O'Donnell",
-        '(She/Her/Hers)',
-        'Programming Director',
-        'ufmgcprogramming@gmail.com'
-    ],
+    // [
+    //     'rhiannon-odonnell.jpg',
+    //     "Rhiannon O'Donnell",
+    //     '(She/Her/Hers)',
+    //     'Programming Director',
+    //     'ufmgcprogramming@gmail.com'
+    // ],
     // [
     //     'sergio-ray.jpg',
     //     "Sergio Ray",
