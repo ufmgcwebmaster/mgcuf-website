@@ -35,13 +35,13 @@ const directorData = [
     //     'Scholarship Director',
     //     'scholarshipufmgc@gmail.com'
     // ],
-    [
-        'rhiannon-odonnell.jpg',
-        "Rhiannon O'Donnell",
-        '(She/Her/Hers)',
-        'Programming Director',
-        'ufmgcprogramming@gmail.com'
-    ],
+    // [
+    //     'rhiannon-odonnell.jpg',
+    //     "Rhiannon O'Donnell",
+    //     '(She/Her/Hers)',
+    //     'Programming Director',
+    //     'ufmgcprogramming@gmail.com'
+    // ],
     // [
     //     'sergio-ray.jpg',
     //     "Sergio Ray",
@@ -56,13 +56,13 @@ const directorData = [
         'Programming Director',
         'ufmgcprogramming@gmail.com'
     ],
-    [
-        'adamaris-castillo.jpg',
-        'Adamaris Castillo',
-        '(She/Her/Hers)',
-        'Programming Director',
-        'ufmgcprogramming@gmail.com'
-    ],
+    // [
+    //     'adamaris-castillo.jpg',
+    //     'Adamaris Castillo',
+    //     '(She/Her/Hers)',
+    //     'Programming Director',
+    //     'ufmgcprogramming@gmail.com'
+    // ],
     // [
     //     'peter-acosta.jpg',
     //     "Peter Acosta",
