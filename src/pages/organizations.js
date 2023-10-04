@@ -29,17 +29,17 @@ const orgData = [
     //     "uf_lambdas",
     //     "https://www.uflambdas.org/"
     // ],
-    [
-        "lta.jpg",
-        "Lambda Theta Alpha Latin Sorority, Inc.",
-        "Chi",
-        "1975",
-        "Unity, Love, and Respect",
-        "Latin by tradition, not by definition",
-        "Burgundy and Gray",
-        "lta_chi",
-        "https://www.ltachichapter.org/"
-    ],
+    // [
+    //     "lta.jpg",
+    //     "Lambda Theta Alpha Latin Sorority, Inc.",
+    //     "Chi",
+    //     "1975",
+    //     "Unity, Love, and Respect",
+    //     "Latin by tradition, not by definition",
+    //     "Burgundy and Gray",
+    //     "lta_chi",
+    //     "https://www.ltachichapter.org/"
+    // ],
     [
         "betas.jpg",
         "Sigma Lambda Beta International Fraternity, Inc.",

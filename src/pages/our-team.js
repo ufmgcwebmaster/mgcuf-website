@@ -56,13 +56,13 @@ const directorData = [
         'Programming Director',
         'ufmgcprogramming@gmail.com'
     ],
-    [
-        'adamaris-castillo.jpg',
-        'Adamaris Castillo',
-        '(She/Her/Hers)',
-        'Programming Director',
-        'ufmgcprogramming@gmail.com'
-    ],
+    // [
+    //     'adamaris-castillo.jpg',
+    //     'Adamaris Castillo',
+    //     '(She/Her/Hers)',
+    //     'Programming Director',
+    //     'ufmgcprogramming@gmail.com'
+    // ],
     // [
     //     'peter-acosta.jpg',
     //     "Peter Acosta",
