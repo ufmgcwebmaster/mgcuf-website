@@ -150,13 +150,13 @@ const eboardData = [
         'Treasurer',
         'ufmgctreasurer@gmail.com'
     ],
-    [
-        'simar-khetpal.jpg',
-        "Simar Khetpal",
-        '(He/Him/His)',
-        'Secretary',
-        'ufmgcsecretary@gmail.com'
-    ],
+    // [
+    //     'simar-khetpal.jpg',
+    //     "Simar Khetpal",
+    //     '(He/Him/His)',
+    //     'Secretary',
+    //     'ufmgcsecretary@gmail.com'
+    // ],
     [
         'dalon-coleman.jpg',
         "Dalon Coleman",

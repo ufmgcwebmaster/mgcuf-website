@@ -128,17 +128,17 @@ const orgData = [
         "betachi.uf",
         "https://betachitheta.com"
     ],
-    [
-        "depsi.jpg",
-        "Delta Epsilon Psi Fraternity, Inc.",
-        "Rho",
-        "1998",
-        "Brotherhood, Discipline, Commitment",
-        "In Brotherhood Lies Our Strength",
-        "Blue and Silver",
-        "depsi_uf",
-        ""
-    ],
+    // [
+    //     "depsi.jpg",
+    //     "Delta Epsilon Psi Fraternity, Inc.",
+    //     "Rho",
+    //     "1998",
+    //     "Brotherhood, Discipline, Commitment",
+    //     "In Brotherhood Lies Our Strength",
+    //     "Blue and Silver",
+    //     "depsi_uf",
+    //     ""
+    // ],
     [
         "sigsig.jpg",
         "Sigma Sigma Rho Sorority, Inc.",
